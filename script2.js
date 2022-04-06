@@ -1,1 +1,1 @@
-console.log('Ini script 2 tambahan ji untuk latihan merge dan branch');
+console.log('Ini script 2 tambahan ji untuk latihan merge dan branch dari local ke repo github');
